@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 🎓 MCA Student at ABES Engineering College  
 💻 Learning JavaScript, Python, and DSA  
 🌱 Currently working on web development projects  
-📫 How to reach me: sankit@example.com
+📫 How to reach me: sankit.khora@gmail.com
