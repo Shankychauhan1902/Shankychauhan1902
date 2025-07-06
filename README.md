@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Shankychauhan1902/Shankychauhan1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I'm Sankit Chauhan
+
+🎓 MCA Student at ABES Engineering College  
+💻 Learning JavaScript, Python, and DSA  
+🌱 Currently working on web development projects  
+📫 How to reach me: sankit@example.com
